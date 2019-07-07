@@ -1,0 +1,53 @@
+@font-face {
+    font-family: LogoFonts1; /* Имя шрифта */
+    src: url(/fonts/1.ttf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts2; /* Имя шрифта */
+    src: url(/fonts/2.ttf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts3; /* Имя шрифта */
+    src: url(/fonts/3.ttf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts4; /* Имя шрифта */
+    src: url(/fonts/4.ttf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts5; /* Имя шрифта */
+    src: url(/fonts/5.ttf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts6; /* Имя шрифта */
+    src: url(/fonts/6.ttf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts7; /* Имя шрифта */
+    src: url(/fonts/7.otf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts8; /* Имя шрифта */
+    src: url(/fonts/8.otf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts9; /* Имя шрифта */
+    src: url(/fonts/9.ttf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts10; /* Имя шрифта */
+    src: url(/fonts/10.otf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts11; /* Имя шрифта */
+    src: url(/fonts/11.ttf); /* Путь к файлу со шрифтом */
+  }
+  @font-face {
+    font-family: LogoFonts12; /* Имя шрифта */
+    src: url('fonts/12.eot');
+    src: url('fonts/12.woff') format('woff'), url('fonts/12.ttf') format('truetype'), url('fonts/12.svg') format('svg');
+  }
+  @font-face {
+    font-family: LogoFonts13; /* Имя шрифта */
+    src: url(/fonts/13.ttf); /* Путь к файлу со шрифтом */
+  }
